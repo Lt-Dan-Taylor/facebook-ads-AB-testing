@@ -1,0 +1,5 @@
+# Ignore Python cache files
+*.pyc
+
+# Ignore IPython Notebook checkpoint directories
+.ipynb_checkpoints/
